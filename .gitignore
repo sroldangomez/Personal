@@ -1,0 +1,11 @@
+.env
+salida/
+__pycache__/
+*.pyc
+.pytest_cache/
+personas/*/foto.png
+personas/*/foto.jpg
+personas/*/foto.jpeg
+personas/*/voz.wav
+personas/*/gesto.mp4
+personas/*/elevenlabs_voice_id
