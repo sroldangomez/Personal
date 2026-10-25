@@ -1,0 +1,7 @@
+{
+  "guion": "Buenas noches. El dólar cerró estable y la ciudad anunció obras en dos avenidas principales. Mañana el clima sigue seco, con una máxima de veinticuatro grados. Les contamos los detalles.",
+  "segundos_objetivo": 15,
+  "tomas": 3,
+  "personas": ["tu", "colaborador"],
+  "mira": ["cara", "manos", "pies", "sincronia_de_labios", "recorte_9_16"]
+}

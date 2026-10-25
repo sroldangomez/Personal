@@ -1,0 +1,15 @@
+{
+  "confirmado": false,
+  "pies_a_cabeza": false,
+  "de_frente": false,
+  "luz_pareja": false,
+  "fondo_simple": false,
+  "manos_visibles": false,
+  "boca_cerrada": false,
+  "foto": "foto.png",
+  "voz": "voz.wav",
+  "foto_url": "",
+  "audio_piloto_url": "",
+  "gesto_url": "",
+  "voice_id": ""
+}
